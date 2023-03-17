@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ParceriaSenai
+build_property.RootNamespace = ParceriaSenai
+build_property.ProjectDir = C:\Users\Bruno\Desktop\Projeto\ParceriaSenai\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Bruno\Desktop\Projeto\ParceriaSenai
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Bruno/Desktop/Projeto/ParceriaSenai/Views/Cisco/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lzY29cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bruno/Desktop/Projeto/ParceriaSenai/Views/Google/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29vZ2xlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bruno/Desktop/Projeto/ParceriaSenai/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bruno/Desktop/Projeto/ParceriaSenai/Views/Huawei/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSHVhd2VpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bruno/Desktop/Projeto/ParceriaSenai/Views/Microsoft/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWljcm9zb2Z0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bruno/Desktop/Projeto/ParceriaSenai/Views/Oracle/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JhY2xlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bruno/Desktop/Projeto/ParceriaSenai/Views/Parcerias/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyY2VyaWFzXGluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bruno/Desktop/Projeto/ParceriaSenai/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bruno/Desktop/Projeto/ParceriaSenai/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bruno/Desktop/Projeto/ParceriaSenai/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bruno/Desktop/Projeto/ParceriaSenai/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bruno/Desktop/Projeto/ParceriaSenai/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-eq9ql1ilc6
